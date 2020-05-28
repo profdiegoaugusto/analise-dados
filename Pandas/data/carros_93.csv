@@ -1,0 +1,94 @@
+fabricante,modelo,tipo,preco_min,preco,preco_max,mpg_cidade,mpg_rodovia,airbags,trem_forca,cilindros,tamanho_motor,horsepower,rpm,revolucoes_milha,transmissao_manual,capacidade_tanque,passageiros,comprimento_in,distancia_eixo,largura_in,espaco_inversao_marcha_ft,tamanho_assento_traseiro_in,porta_mala_ft3,peso_lb,origem,fabricante_modelo
+Acura,Integra,Pequeno,12.90,15.90,18.80,25,31,Nenhum,Dianteiro,4,1.8,140,6300,2890,Sim,13.2,5,177,102,68,37,26.5,NA,2705,Fora dos EUA,Acura Integra
+NA,Legend,Médio,29.20,33.90,38.70,18,25,Motorista e Passageiro,Dianteiro,6,3.2,200,5500,2335,Sim,18.0,5,195,115,71,38,30.0,15,3560,Fora dos EUA,Acura Legend
+Audi,90,Compacto,25.90,29.10,32.30,20,26,Somente Motorista,Dianteiro,6,2.8,172,5500,2280,Sim,16.9,5,180,102,67,37,28.0,14,3375,Fora dos EUA,Audi 90
+Audi,100,Médio,NA,37.70,44.60,19,26,Motorista e Passageiro,NA,6,NA,172,5500,2535,NA,21.1,6,193,106,NA,37,31.0,17,3405,Fora dos EUA,Audi 100
+BMW,535i,Médio,NA,30.00,NA,22,30,NA,Traseiro,4,3.5,208,5700,2545,Sim,21.1,4,186,109,69,39,27.0,13,3640,Fora dos EUA,BMW 535i
+Buick,Century,Médio,14.20,15.70,17.30,22,31,Somente Motorista,NA,4,2.2,110,5200,2565,Não,16.4,6,189,105,69,41,28.0,16,NA,EUA,Buick Century
+Buick,LeSabre,Grande,19.90,20.80,NA,19,28,Somente Motorista,Dianteiro,6,3.8,170,4800,NA,Não,NA,6,200,111,74,42,30.5,17,3470,EUA,Buick LeSabre
+Buick,Roadmaster,Grande,22.60,23.70,24.90,16,25,Somente Motorista,Traseiro,6,5.7,180,4000,1320,Não,23.0,6,216,116,78,45,30.5,21,4105,EUA,Buick Roadmaster
+Buick,Riviera,Médio,26.30,26.30,26.30,19,27,Somente Motorista,Dianteiro,6,3.8,170,4800,1690,Não,18.8,5,198,108,NA,41,26.5,14,3495,EUA,Buick Riviera
+Cadillac,DeVille,Grande,33.00,34.70,36.30,16,25,Somente Motorista,Dianteiro,8,4.9,200,4100,NA,Não,18.0,6,206,114,73,43,35.0,18,3620,EUA,Cadillac DeVille
+Cadillac,Seville,Médio,37.50,40.10,42.70,16,25,Motorista e Passageiro,Dianteiro,8,4.6,295,6000,1985,Não,20.0,5,204,111,74,44,31.0,NA,3935,EUA,Cadillac Seville
+Chevrolet,Cavalier,Compacto,8.50,13.40,18.30,25,36,NA,NA,4,2.2,NA,5200,2380,Sim,15.2,5,182,101,66,38,25.0,13,2490,EUA,Chevrolet Cavalier
+Chevrolet,Corsica,Compacto,11.40,11.40,11.40,25,34,Somente Motorista,Dianteiro,NA,2.2,110,5200,2665,Sim,15.6,5,184,103,68,39,26.0,NA,2785,EUA,Chevrolet Corsica
+Chevrolet,Camaro,Esportivo,13.40,15.10,16.80,19,28,Motorista e Passageiro,Traseiro,NA,3.4,160,4600,1805,Sim,NA,4,193,101,74,43,25.0,13,3240,EUA,Chevrolet Camaro
+Chevrolet,Lumina,Médio,13.40,15.90,18.40,NA,29,Nenhum,Dianteiro,4,2.2,NA,5200,2595,Não,16.5,6,NA,108,71,NA,28.5,16,3195,EUA,Chevrolet Lumina
+Chevrolet,Lumina_APV,Van,14.70,16.30,18.00,18,23,Nenhum,Dianteiro,6,3.8,170,4800,1690,Não,20.0,7,178,110,74,44,30.5,NA,3715,EUA,Chevrolet Lumina_APV
+Chevrolet,Astro,Van,14.70,16.60,18.60,15,20,Nenhum,4WD,6,4.3,NA,4000,1790,Não,27.0,8,194,111,78,42,33.5,NA,4025,EUA,Chevrolet Astro
+Chevrolet,Caprice,Grande,18.00,18.80,19.60,17,26,Somente Motorista,Traseiro,8,5.0,170,4200,1350,Não,23.0,6,214,116,77,42,29.5,20,3910,EUA,Chevrolet Caprice
+Chevrolet,Corvette,Esportivo,34.60,38.00,41.50,17,25,Somente Motorista,Traseiro,8,5.7,300,5000,1450,Sim,20.0,2,179,96,74,43,NA,NA,3380,NA,Chevrolet Corvette
+NA,Concorde,Grande,18.40,18.40,18.40,20,28,Motorista e Passageiro,Dianteiro,6,3.3,153,5300,1990,Não,18.0,6,203,113,74,NA,31.0,15,3515,EUA,Chrylser Concorde
+Chrysler,LeBaron,Compacto,14.50,15.80,17.10,23,28,Motorista e Passageiro,Dianteiro,4,3.0,141,5000,2090,Não,16.0,6,183,104,68,41,30.5,14,3085,EUA,Chrysler LeBaron
+Chrysler,Imperial,Grande,29.50,29.50,29.50,20,26,Somente Motorista,Dianteiro,6,3.3,147,4800,1785,Não,16.0,6,203,110,69,44,36.0,17,3570,EUA,Chrysler Imperial
+Dodge,Colt,Pequeno,7.90,9.20,10.60,29,33,Nenhum,Dianteiro,4,1.5,92,6000,3285,Sim,NA,5,174,98,66,32,NA,11,2270,EUA,Dodge Colt
+Dodge,Shadow,Pequeno,8.40,11.30,14.20,23,29,Somente Motorista,Dianteiro,4,2.2,93,4800,NA,Sim,14.0,5,172,97,67,38,26.5,NA,2670,EUA,Dodge Shadow
+Dodge,Spirit,Compacto,11.90,13.30,14.70,22,27,Somente Motorista,Dianteiro,4,2.5,100,4800,2535,Sim,NA,6,181,104,68,39,30.5,NA,2970,EUA,Dodge Spirit
+Dodge,Caravan,Van,NA,19.00,24.40,17,21,Somente Motorista,4WD,6,3.0,142,5000,1970,Não,20.0,7,175,112,72,42,26.5,NA,3705,EUA,Dodge Caravan
+Dodge,Dynasty,Médio,14.80,15.60,16.40,21,NA,Somente Motorista,Dianteiro,NA,2.5,100,4800,2465,Não,16.0,6,192,105,69,42,30.5,16,3080,EUA,Dodge Dynasty
+Dodge,Stealth,Esportivo,18.50,25.80,33.10,NA,24,Somente Motorista,4WD,6,3.0,300,6000,2120,Sim,19.8,4,180,97,NA,40,20.0,11,3805,EUA,Dodge Stealth
+Eagle,Summit,Pequeno,7.90,12.20,16.50,29,33,Nenhum,Dianteiro,4,1.5,92,6000,2505,Sim,13.2,5,174,98,66,36,26.5,11,2295,EUA,Eagle Summit
+Eagle,Vision,Grande,NA,19.30,21.20,20,28,Motorista e Passageiro,Dianteiro,6,3.5,NA,5800,1980,Não,18.0,6,202,113,74,40,30.0,15,3490,EUA,Eagle Vision
+Ford,Festiva,Pequeno,6.90,7.40,7.90,31,33,NA,Dianteiro,4,1.3,63,5000,3150,Sim,10.0,4,141,90,63,33,26.0,12,1845,EUA,Ford Festiva
+Ford,Escort,Pequeno,8.40,10.10,11.90,23,30,Nenhum,Dianteiro,4,1.8,127,6500,2410,NA,13.2,5,171,98,67,36,28.0,12,2530,EUA,Ford Escort
+Ford,Tempo,Compacto,10.40,11.30,12.20,22,27,Nenhum,Dianteiro,4,2.3,96,4200,2805,Sim,15.9,5,177,100,68,NA,27.5,13,NA,EUA,NA
+Ford,Mustang,Esportivo,10.80,15.90,21.00,22,29,Somente Motorista,Traseiro,4,2.3,105,4600,2285,Sim,15.4,4,180,101,68,40,24.0,12,NA,EUA,Ford Mustang
+Ford,Probe,Esportivo,12.80,14.00,15.20,NA,30,Somente Motorista,Dianteiro,4,2.0,115,5500,2340,Sim,15.5,4,179,103,70,38,23.0,18,2710,EUA,Ford Probe
+Ford,Aerostar,Van,14.50,19.90,25.30,15,20,Somente Motorista,4WD,6,3.0,145,4800,2080,Sim,21.0,7,176,119,72,45,30.0,NA,3735,EUA,Ford Aerostar
+Ford,Taurus,Médio,15.60,20.20,24.80,21,30,Somente Motorista,Dianteiro,6,3.0,NA,4800,1885,Não,NA,5,192,106,71,40,27.5,18,3325,EUA,Ford Taurus
+Ford,Crown_Victoria,Grande,20.10,20.90,21.70,18,26,Somente Motorista,Traseiro,8,4.6,190,4200,NA,Não,20.0,6,212,114,78,43,30.0,21,3950,EUA,Ford Crown_Victoria
+Geo,Metro,Pequeno,6.70,8.40,10.00,46,50,Nenhum,Dianteiro,3,1.0,55,5700,3755,NA,10.6,4,151,93,63,34,27.5,10,1695,Fora dos EUA,Geo Metro
+Geo,Storm,Esportivo,11.50,12.50,13.50,30,36,Somente Motorista,Dianteiro,4,1.6,90,5400,3250,Sim,12.4,4,164,97,NA,37,24.5,11,2475,Fora dos EUA,Geo Storm
+Honda,Prelude,Esportivo,17.00,19.80,22.70,24,31,Motorista e Passageiro,Dianteiro,4,2.3,160,5800,2855,Sim,NA,4,175,100,70,39,23.5,8,2865,Fora dos EUA,Honda Prelude
+Honda,Civic,Pequeno,8.40,12.10,15.80,42,46,Somente Motorista,Dianteiro,4,1.5,NA,5900,2650,Sim,11.9,4,173,NA,67,36,28.0,12,NA,Fora dos EUA,Honda Civic
+Honda,Accord,Compacto,13.80,17.50,21.20,24,31,Motorista e Passageiro,Dianteiro,4,2.2,140,5600,NA,Sim,17.0,4,185,107,67,41,28.0,14,3040,Fora dos EUA,Honda Accord
+Hyundai,Excel,Pequeno,6.80,8.00,9.20,29,33,Nenhum,Dianteiro,4,1.5,81,5500,2710,Sim,11.9,5,168,94,63,35,26.0,11,2345,Fora dos EUA,Hyundai Excel
+Hyundai,Elantra,Pequeno,9.00,10.00,11.00,NA,29,Nenhum,Dianteiro,4,1.8,124,6000,2745,Sim,13.7,5,172,98,66,36,28.0,12,2620,Fora dos EUA,Hyundai Elantra
+Hyundai,Scoupe,NA,9.10,10.00,11.00,26,34,Nenhum,Dianteiro,4,1.5,92,5550,2540,Sim,11.9,4,166,94,64,34,23.5,9,2285,Fora dos EUA,NA
+Hyundai,Sonata,Médio,12.40,13.90,15.30,20,27,Nenhum,Dianteiro,4,2.0,128,6000,2335,Sim,17.2,5,184,104,69,41,31.0,NA,2885,NA,Hyundai Sonata
+Infiniti,Q45,Médio,45.40,47.90,NA,17,22,NA,Traseiro,8,4.5,278,6000,1955,Não,22.5,5,200,113,72,42,29.0,15,4000,Fora dos EUA,Infiniti Q45
+Lexus,ES300,Médio,27.50,28.00,28.40,18,24,Somente Motorista,Dianteiro,6,3.0,185,NA,2325,Sim,18.5,5,188,103,70,40,27.5,14,3510,Fora dos EUA,Lexus ES300
+NA,SC300,Médio,34.70,35.20,35.60,18,23,Motorista e Passageiro,Traseiro,6,3.0,225,6000,2510,Sim,NA,4,191,106,71,39,25.0,9,3515,Fora dos EUA,Lexus SC300
+Lincoln,Continental,Médio,33.30,34.30,35.30,17,26,Motorista e Passageiro,NA,6,3.8,160,4400,1835,Não,18.4,6,205,109,73,42,30.0,19,3695,EUA,Lincoln Continental
+Lincoln,Town_Car,Grande,34.40,36.10,37.80,18,26,Motorista e Passageiro,Traseiro,8,4.6,210,4600,1840,Não,20.0,NA,219,117,77,45,31.5,22,4055,EUA,Lincoln Town_Car
+Mazda,323,Pequeno,7.40,8.30,9.10,29,37,Nenhum,Dianteiro,4,1.6,82,5000,2370,Sim,13.2,4,164,97,66,34,27.0,16,2325,Fora dos EUA,Mazda 323
+Mazda,Protege,Pequeno,10.90,11.60,12.30,28,36,Nenhum,Dianteiro,4,1.8,103,5500,2220,Sim,14.5,5,172,98,66,36,26.5,13,2440,Fora dos EUA,Mazda Protege
+Mazda,626,Compacto,14.30,16.50,18.70,26,34,Somente Motorista,Dianteiro,4,2.5,164,5600,2505,Sim,15.5,5,184,103,69,40,29.5,14,2970,Fora dos EUA,Mazda 626
+Mazda,MPV,Van,16.60,19.10,21.70,18,24,Nenhum,4WD,6,3.0,155,5000,2240,Não,19.6,7,190,110,72,39,27.5,NA,3735,Fora dos EUA,Mazda MPV
+Mazda,RX-7,Esportivo,32.50,32.50,32.50,17,25,Somente Motorista,NA,NA,1.3,255,6500,2325,Sim,20.0,2,169,96,69,NA,NA,NA,NA,Fora dos EUA,Mazda RX-7
+Mercedes-Benz,190E,Compacto,29.00,31.90,34.90,NA,29,Somente Motorista,Traseiro,4,2.3,130,5100,2425,Sim,14.5,5,175,105,67,34,26.0,12,2920,NA,Mercedes-Benz 190E
+Mercedes-Benz,300E,Médio,43.80,61.90,80.00,19,25,Motorista e Passageiro,Traseiro,6,3.2,217,5500,2220,Não,18.5,5,NA,110,69,37,NA,15,3525,Fora dos EUA,Mercedes-Benz 300E
+Mercury,NA,Esportivo,13.30,14.10,15.00,23,26,Somente Motorista,Dianteiro,4,1.6,100,5750,2475,Sim,11.1,4,166,95,65,36,19.0,6,2450,EUA,Mercury Capri
+Mercury,Cougar,Médio,14.90,14.90,14.90,19,26,Nenhum,Traseiro,6,3.8,140,3800,1730,Não,18.0,5,199,113,73,38,28.0,15,3610,EUA,Mercury Cougar
+Mitsubishi,Mirage,Pequeno,7.70,10.30,12.90,29,NA,Nenhum,Dianteiro,4,1.5,92,6000,2505,Sim,13.2,5,172,98,67,36,26.0,11,2295,Fora dos EUA,Mitsubishi Mirage
+Mitsubishi,Diamante,Médio,22.40,26.10,NA,18,24,Somente Motorista,Dianteiro,6,3.0,202,6000,2210,Não,19.0,5,190,107,70,43,27.5,14,3730,Fora dos EUA,Mitsubishi Diamante
+Nissan,Sentra,Pequeno,8.70,11.80,14.90,29,33,Somente Motorista,Dianteiro,NA,1.6,110,6000,2435,Sim,13.2,5,170,96,66,33,26.0,NA,NA,Fora dos EUA,Nissan Sentra
+Nissan,Altima,Compacto,13.00,15.70,18.30,24,30,Somente Motorista,Dianteiro,4,2.4,150,5600,2130,Sim,15.9,5,181,103,67,40,28.5,14,3050,Fora dos EUA,Nissan Altima
+Nissan,Quest,Van,16.70,19.10,21.50,17,23,Nenhum,Dianteiro,6,3.0,NA,4800,2065,Não,20.0,7,190,112,74,41,27.0,NA,4100,Fora dos EUA,Nissan Quest
+Nissan,Maxima,Médio,21.00,21.50,22.00,21,26,Somente Motorista,Dianteiro,6,3.0,160,5200,2045,NA,18.5,5,188,104,69,41,28.5,14,3200,Fora dos EUA,Nissan Maxima
+Oldsmobile,Achieva,Compacto,13.00,13.50,14.00,24,31,Nenhum,Dianteiro,4,2.3,155,6000,2380,Não,15.2,5,188,103,67,39,28.0,14,2910,EUA,Oldsmobile Achieva
+Oldsmobile,Cutlass_Ciera,Médio,14.20,16.30,18.40,23,31,Somente Motorista,Dianteiro,4,2.2,110,5200,2565,Não,NA,5,190,105,70,42,28.0,16,2890,EUA,Oldsmobile Cutlass_Ciera
+Oldsmobile,Silhouette,Van,19.50,19.50,19.50,18,23,Nenhum,Dianteiro,6,3.8,170,4800,1690,Não,20.0,7,NA,110,74,44,30.5,NA,3715,EUA,Oldsmobile Silhouette
+Oldsmobile,Eighty-Eight,Grande,19.50,20.70,21.90,NA,28,Somente Motorista,Dianteiro,6,3.8,170,4800,1570,Não,18.0,6,201,111,74,42,31.5,17,3470,EUA,Oldsmobile Eighty-Eight
+Plymouth,Laser,Esportivo,11.40,14.40,17.40,NA,30,Nenhum,4WD,4,1.8,92,5000,2360,Sim,15.9,4,173,97,67,39,24.5,8,2640,NA,Plymouth Laser
+Pontiac,LeMans,Pequeno,NA,9.00,9.90,31,41,Nenhum,Dianteiro,4,1.6,74,5600,3130,Sim,13.2,4,177,99,66,35,25.5,17,2350,EUA,Pontiac LeMans
+Pontiac,Sunbird,Compacto,9.40,11.10,12.80,NA,31,Nenhum,NA,4,2.0,110,5200,2665,Sim,15.2,5,181,101,66,39,25.0,13,NA,EUA,NA
+Pontiac,Firebird,NA,14.00,17.70,21.40,19,28,Motorista e Passageiro,Traseiro,6,NA,160,4600,1805,Sim,15.5,4,196,101,75,43,25.0,13,3240,EUA,Pontiac Firebird
+Pontiac,Grand_Prix,Médio,15.40,18.50,21.60,19,27,Nenhum,Dianteiro,6,3.4,200,5000,1890,Sim,16.5,5,195,108,72,41,28.5,16,3450,EUA,Pontiac Grand_Prix
+Pontiac,Bonneville,Grande,19.40,24.40,29.40,19,28,Motorista e Passageiro,Dianteiro,6,3.8,170,4800,1565,Não,18.0,6,177,111,74,43,30.5,18,3495,EUA,Pontiac Bonneville
+Saab,900,Compacto,20.30,28.70,37.10,20,26,NA,Dianteiro,4,2.1,140,6000,2910,Sim,18.0,5,NA,99,67,37,26.5,14,2775,Fora dos EUA,Saab 900
+Saturn,SL,Pequeno,9.20,NA,12.90,NA,38,Somente Motorista,Dianteiro,4,1.9,85,5000,2145,Sim,12.8,5,176,102,68,40,26.5,NA,2495,EUA,Saturn SL
+Subaru,Justy,Pequeno,7.30,8.40,9.50,33,37,Nenhum,4WD,3,1.2,73,5600,2875,Sim,9.2,4,146,90,60,32,23.5,10,2045,Fora dos EUA,Subaru Justy
+Subaru,Loyale,Pequeno,10.50,10.90,11.30,25,30,Nenhum,4WD,4,1.8,90,5200,3375,Sim,15.9,5,175,97,65,35,27.5,15,2490,Fora dos EUA,Subaru Loyale
+Subaru,Legacy,Compacto,16.30,19.50,22.70,23,30,Somente Motorista,4WD,4,2.2,130,NA,2330,Sim,15.9,5,179,102,67,37,27.0,14,3085,Fora dos EUA,Subaru Legacy
+Suzuki,Swift,NA,7.30,8.60,NA,39,43,Nenhum,Dianteiro,3,1.3,70,6000,3360,Sim,10.6,4,161,93,NA,34,27.5,10,1965,Fora dos EUA,Suzuki Swift
+Toyota,Tercel,Pequeno,NA,9.80,11.80,32,37,Somente Motorista,Dianteiro,4,1.5,82,5200,3505,Sim,11.9,NA,162,94,NA,36,24.0,11,2055,Fora dos EUA,Toyota Tercel
+Toyota,Celica,Esportivo,14.20,18.40,22.60,25,32,NA,Dianteiro,4,2.2,135,NA,2405,Sim,15.9,4,174,99,69,NA,23.0,13,2950,Fora dos EUA,Toyota Celica
+Toyota,Camry,Médio,15.20,NA,21.20,22,29,Somente Motorista,NA,4,2.2,130,5400,2340,NA,18.5,5,188,103,70,38,28.5,15,3030,Fora dos EUA,Toyota Camry
+Toyota,Previa,Van,NA,22.70,26.60,18,22,Somente Motorista,4WD,4,2.4,138,5000,2515,Sim,19.8,7,187,113,71,41,35.0,NA,3785,Fora dos EUA,Toyota Previa
+Volkswagen,Fox,Pequeno,8.70,9.10,9.50,25,33,Nenhum,Dianteiro,4,1.8,81,5500,2550,Sim,12.4,4,163,93,63,34,26.0,10,2240,Fora dos EUA,Volkswagen Fox
+Volkswagen,Eurovan,Van,16.60,19.70,22.70,17,21,Nenhum,Dianteiro,5,2.5,109,4500,2915,Sim,21.1,7,187,115,72,38,34.0,NA,3960,NA,Volkswagen Eurovan
+Volkswagen,Passat,Compacto,17.60,20.00,22.40,21,30,Nenhum,Dianteiro,4,2.0,134,5800,2685,Sim,18.5,5,180,103,67,35,31.5,14,2985,Fora dos EUA,Volkswagen Passat
+Volkswagen,Corrado,Esportivo,22.90,23.30,23.70,18,25,Nenhum,Dianteiro,6,2.8,178,5800,2385,Sim,18.5,4,159,97,66,36,26.0,15,2810,Fora dos EUA,Volkswagen Corrado
+Volvo,240,Compacto,21.80,22.70,23.50,21,28,Somente Motorista,Traseiro,NA,2.3,114,5400,2215,Sim,15.8,5,190,104,67,37,29.5,14,2985,Fora dos EUA,Volvo 240
+NA,850,Médio,24.80,26.70,28.50,20,28,Motorista e Passageiro,Dianteiro,5,2.4,168,6200,NA,Sim,19.3,5,184,105,69,38,30.0,15,3245,Fora dos EUA,Volvo 850
